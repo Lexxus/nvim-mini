@@ -7,5 +7,5 @@ vim.keymap.set("n", "<C-h>", ":wincmd h<cr>", { silent = true, desc="Move cursor
 vim.keymap.set("n", "<CS-l>", ":wincmd l<cr>", { silent = true, desc="Move cursor to right split" })
 vim.keymap.set("n", "<CS-h>", ":wincmd h<cr>", { silent = true, desc="Move cursor to left split" })
 
-vim.keymap.set("n", "<leader>]", ":bn<cr>", { silent = true, desc="Next buffer" })
-vim.keymap.set("n", "<leader>[", ":bp<cr>", { silent = true, desc="Prev buffer" })
+vim.keymap.set("n", "]b", ":bn<cr>", { silent = true, desc="Next buffer" })
+vim.keymap.set("n", "[b", ":bp<cr>", { silent = true, desc="Prev buffer" })
