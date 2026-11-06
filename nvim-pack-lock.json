@@ -4,6 +4,30 @@
       "rev": "1e9d0fbfe7ff848bc402d2c2e2854fb4eff2dce7",
       "src": "https://github.com/lewis6991/gitsigns.nvim"
     },
+    "mini.ai": {
+      "rev": "a4f5648dedf435e6306205135d1babb563b55d28",
+      "src": "https://github.com/nvim-mini/mini.ai"
+    },
+    "mini.align": {
+      "rev": "a7f24f57e68a72fd6c19e442288ab835a9c40cdd",
+      "src": "https://github.com/nvim-mini/mini.align"
+    },
+    "mini.hipatterns": {
+      "rev": "247c0173579a29af60f25f00671a75c57090be9c",
+      "src": "https://github.com/nvim-mini/mini.hipatterns"
+    },
+    "mini.icons": {
+      "rev": "eab3e692d796d78ea6ffc978d8a380ff26fcf4e3",
+      "src": "https://github.com/nvim-mini/mini.icons"
+    },
+    "mini.indentscope": {
+      "rev": "b26a8ee619c0f4158dd4df1a8151b236b7d100bc",
+      "src": "https://github.com/nvim-mini/mini.indentscope"
+    },
+    "mini.surround": {
+      "rev": "5357f00aca51a3b43e7775901b1ad9699f8c2678",
+      "src": "https://github.com/nvim-mini/mini.surround"
+    },
     "plenary.nvim": {
       "rev": "74b06c6c75e4eeb3108ec01852001636d85a932b",
       "src": "https://github.com/nvim-lua/plenary.nvim"
